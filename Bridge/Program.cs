@@ -12,6 +12,7 @@ namespace Bridge
         {
             TankPlatformImplementation tabkImp = new MobileTankPlatformImplementation();
             T50 tank = new T50(tabkImp);
+            //测试改动
         }
     }
 }
